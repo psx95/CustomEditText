@@ -52,6 +52,14 @@ captures/
 # Google Services (e.g. APIs or Firebase)
 google-services.json
 
+# Commitizen NPM Modules
+package-lock.json
+package.json
+node_modules/
+
+# Android Studio files
+.idea/
+
 # Freeline
 freeline.py
 freeline/
